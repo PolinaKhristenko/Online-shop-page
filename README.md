@@ -1,4 +1,4 @@
-# Online shop page(test assignment)
+# Online shop page (test assignment)
 
 Requirements: 
 1. Responsive layout;
