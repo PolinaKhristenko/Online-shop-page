@@ -1,5 +1,11 @@
 # Online shop page (test assignment)
 
+Main page:
+<img width="785" alt="Screenshot 2022-07-11 at 20 42 44" src="https://user-images.githubusercontent.com/88159970/178325231-67e9c8a5-d0a6-48f2-b9fd-da1d013b0c13.png">
+
+Add to cart modal window:
+<img width="561" alt="Screenshot 2022-07-11 at 20 43 40" src="https://user-images.githubusercontent.com/88159970/178325362-e4088168-3fa7-46d2-a8dd-b55315802dc8.png">
+
 Requirements: 
 1. Responsive layout;
 2. Click on a filter icon opens up filter menu (mobile version);
